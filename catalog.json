@@ -1,0 +1,82 @@
+{
+  "catalogVersion": 1,
+  "packs": [
+    {
+      "id": "animals",
+      "title": "حيوانات",
+      "author": "فريق اخبطها",
+      "version": 1,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/v1.0/animal.zip"
+    },
+    {
+      "id": "vegetables_fruits",
+      "title": "خضار وفاكهة",
+      "author": "فريق اخبطها",
+      "version": 1,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/v1.0/vegetables_fruits.zip"
+    },
+    {
+      "id": "historical_figures",
+      "title": "شخصيات تاريخية",
+      "author": "فريق اخبطها",
+      "version": 1,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/v1.0/historical_figures.zip"
+    },
+    {
+      "id": "cartoons",
+      "title": "كرتون",
+      "author": "فريق اخبطها",
+      "version": 1,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/v1.0/cartoons.zip"
+    },
+    {
+      "id": "brands",
+      "title": "براندات",
+      "author": "فريق اخبطها",
+      "version": 1,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/v1.0/brands.zip"
+    },
+    {
+      "id": "jobs",
+      "title": "وظائف",
+      "author": "فريق اخبطها",
+      "version": 1,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/v1.0/jops.zip"
+    },
+    {
+      "id": "movies",
+      "title": "أفلام",
+      "author": "فريق اخبطها",
+      "version": 1,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/v1.0/movies.zip"
+    },
+    {
+      "id": "series",
+      "title": "مسلسلات",
+      "author": "فريق اخبطها",
+      "version": 1,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/v1.0/seires.zip"
+    },
+    {
+      "id": "foods",
+      "title": "أكلات",
+      "author": "فريق اخبطها",
+      "version": 1,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/v1.0/foods.zip"
+    },
+    {
+      "id": "flags",
+      "title": "أعلام دول",
+      "author": "فريق اخبطها",
+      "version": 1,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/v1.0/flags.zip"
+    },
+    {
+      "id": "actors",
+      "title": "ممثلين",
+      "author": "فريق اخبطها",
+      "version": 1,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/v1.0/actors.zip"
+    }
+  ]
+}
