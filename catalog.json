@@ -90,6 +90,19 @@
       "icon": "⚽",
       "color": "#10b981",
       "badge": "جديد"
+    },
+    {
+      "id": "world_players",
+      "title": "لاعيبة عالمية",
+      "author": "فريق اخبطها",
+      "version": 2,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/world_players_v2.zip",
+      "imageCount": 70,
+      "size_mb": 3.23,
+      "description": "[جديد] أشهر 70 نجم وأسطورة في تاريخ كرة القدم العالمية",
+      "icon": "⚽",
+      "color": "#10b981",
+      "badge": "جديد"
     }
   ]
 }
