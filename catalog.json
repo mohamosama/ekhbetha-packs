@@ -31,22 +31,24 @@
       "id": "vegetables_fruits",
       "title": "خضار وفاكهة",
       "author": "فريق اخبطها",
-      "version": 1,
-      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/vegetables_fruits.zip",
-      "imageCount": 49,
-      "size_mb": 9.08,
+      "version": 2,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/vegetables_fruits_v2.zip",
+      "imageCount": 70,
+      "size_mb": 3.39,
+      "icon": "🍔",
+      "color": "#ff5e62",
       "cover_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/vegetables_fruits/preview_1.jpg",
       "previews": [
         {
-          "word": "مشمش",
+          "word": "فراولة",
           "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/vegetables_fruits/preview_1.jpg"
         },
         {
-          "word": "Avocado",
+          "word": "بطيخ",
           "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/vegetables_fruits/preview_2.jpg"
         },
         {
-          "word": "Banana",
+          "word": "مانجو",
           "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/vegetables_fruits/preview_3.jpg"
         }
       ]
