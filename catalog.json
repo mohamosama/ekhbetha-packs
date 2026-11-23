@@ -6,56 +6,192 @@
       "title": "حيوانات",
       "author": "فريق اخبطها",
       "version": 1,
-      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/animal.zip"
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/animal.zip",
+      "imageCount": 54,
+      "size_mb": 13.13,
+      "cover_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/animals/preview_1.jpg",
+      "previews": [
+        {
+          "word": "Rabbit",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/animals/preview_1.jpg"
+        },
+        {
+          "word": "Rooster",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/animals/preview_2.jpg"
+        },
+        {
+          "word": "Seahorse",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/animals/preview_3.jpg"
+        }
+      ]
     },
     {
       "id": "vegetables_fruits",
       "title": "خضار وفاكهة",
       "author": "فريق اخبطها",
       "version": 1,
-      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/vegetables_fruits.zip"
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/vegetables_fruits.zip",
+      "imageCount": 49,
+      "size_mb": 9.08,
+      "cover_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/vegetables_fruits/preview_1.jpg",
+      "previews": [
+        {
+          "word": "مشمش",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/vegetables_fruits/preview_1.jpg"
+        },
+        {
+          "word": "Avocado",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/vegetables_fruits/preview_2.jpg"
+        },
+        {
+          "word": "Banana",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/vegetables_fruits/preview_3.jpg"
+        }
+      ]
     },
     {
       "id": "historical_figures",
       "title": "شخصيات تاريخية",
       "author": "فريق اخبطها",
       "version": 1,
-      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/historical_figures.zip"
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/historical_figures.zip",
+      "imageCount": 34,
+      "size_mb": 9.04,
+      "cover_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/historical_figures/preview_1.jpg",
+      "previews": [
+        {
+          "word": "Akhenaten",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/historical_figures/preview_1.jpg"
+        },
+        {
+          "word": "Albert Einstein",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/historical_figures/preview_2.jpg"
+        },
+        {
+          "word": "Beethoven",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/historical_figures/preview_3.jpg"
+        }
+      ]
     },
     {
       "id": "cartoons",
       "title": "كرتون",
       "author": "فريق اخبطها",
       "version": 1,
-      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/cartoons.zip"
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/cartoons.zip",
+      "imageCount": 39,
+      "size_mb": 5.34,
+      "cover_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/cartoons/preview_1.jpg",
+      "previews": [
+        {
+          "word": "Bakkar",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/cartoons/preview_1.jpg"
+        },
+        {
+          "word": "Cinderella",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/cartoons/preview_2.jpg"
+        },
+        {
+          "word": "Bugs Bunny",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/cartoons/preview_3.jpg"
+        }
+      ]
     },
     {
       "id": "brands",
       "title": "براندات",
       "author": "فريق اخبطها",
       "version": 1,
-      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/brands.zip"
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/brands.zip",
+      "imageCount": 45,
+      "size_mb": 5.58,
+      "cover_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/brands/preview_1.jpg",
+      "previews": [
+        {
+          "word": "Adidas",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/brands/preview_1.jpg"
+        },
+        {
+          "word": "Amazon",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/brands/preview_2.jpg"
+        },
+        {
+          "word": "Audi",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/brands/preview_3.jpg"
+        }
+      ]
     },
     {
       "id": "jobs",
       "title": "وظائف",
       "author": "فريق اخبطها",
       "version": 1,
-      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/jops.zip"
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/jops.zip",
+      "imageCount": 43,
+      "size_mb": 7.33,
+      "cover_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/jobs/preview_1.jpg",
+      "previews": [
+        {
+          "word": "Actor",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/jobs/preview_1.jpg"
+        },
+        {
+          "word": "Barber",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/jobs/preview_2.jpg"
+        },
+        {
+          "word": "Basketball Player",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/jobs/preview_3.jpg"
+        }
+      ]
     },
     {
       "id": "flags",
       "title": "أعلام دول",
       "author": "فريق اخبطها",
       "version": 1,
-      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/flags.zip"
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/flags.zip",
+      "imageCount": 60,
+      "size_mb": 6.9,
+      "cover_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/flags/preview_1.jpg",
+      "previews": [
+        {
+          "word": "Australia",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/flags/preview_1.jpg"
+        },
+        {
+          "word": "Bahrain",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/flags/preview_2.jpg"
+        },
+        {
+          "word": "Egypt",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/flags/preview_3.jpg"
+        }
+      ]
     },
     {
       "id": "actors",
       "title": "ممثلين",
       "author": "فريق اخبطها",
       "version": 1,
-      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/actors.zip"
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/actors.zip",
+      "imageCount": 37,
+      "size_mb": 11.37,
+      "cover_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/actors/preview_1.jpg",
+      "previews": [
+        {
+          "word": "عبدالسلام النابلسي",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/actors/preview_1.jpg"
+        },
+        {
+          "word": "Ahmed Dawood",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/actors/preview_2.jpg"
+        },
+        {
+          "word": "Amir Karara",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/actors/preview_3.jpg"
+        }
+      ]
     }
   ]
 }
