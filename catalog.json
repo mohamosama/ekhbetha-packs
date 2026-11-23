@@ -152,30 +152,6 @@
       ]
     },
     {
-      "id": "flags",
-      "title": "أعلام دول",
-      "author": "فريق اخبطها",
-      "version": 1,
-      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/flags.zip",
-      "imageCount": 60,
-      "size_mb": 6.9,
-      "cover_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/flags/preview_1.jpg",
-      "previews": [
-        {
-          "word": "Australia",
-          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/flags/preview_1.jpg"
-        },
-        {
-          "word": "Bahrain",
-          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/flags/preview_2.jpg"
-        },
-        {
-          "word": "Egypt",
-          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/flags/preview_3.jpg"
-        }
-      ]
-    },
-    {
       "id": "actors",
       "title": "ممثلين",
       "author": "فريق اخبطها",
