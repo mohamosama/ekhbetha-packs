@@ -57,22 +57,24 @@
       "id": "historical_figures",
       "title": "شخصيات تاريخية",
       "author": "فريق اخبطها",
-      "version": 1,
-      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/historical_figures.zip",
-      "imageCount": 34,
-      "size_mb": 9.04,
+      "version": 2,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/historical_figures_v2.zip",
+      "imageCount": 70,
+      "size_mb": 3.86,
+      "icon": "🎴",
+      "color": "#2563eb",
       "cover_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/historical_figures/preview_1.jpg",
       "previews": [
         {
-          "word": "Akhenaten",
+          "word": "ألبرت أينشتاين",
           "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/historical_figures/preview_1.jpg"
         },
         {
-          "word": "Albert Einstein",
+          "word": "كليوباترا",
           "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/historical_figures/preview_2.jpg"
         },
         {
-          "word": "Beethoven",
+          "word": "نابليون بونابرت",
           "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/historical_figures/preview_3.jpg"
         }
       ]
