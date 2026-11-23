@@ -300,6 +300,32 @@
           "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/world_landmarks/preview_3.jpg"
         }
       ]
+    },
+    {
+      "id": "arab_youtubers",
+      "title": "يوتيوبرز وصناع محتوى",
+      "author": "فريق اخبطها",
+      "version": 1,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/arab_youtubers.zip",
+      "imageCount": 50,
+      "size_mb": 2.28,
+      "icon": "📺",
+      "color": "#ff0004",
+      "cover_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/arab_youtubers/preview_1.jpg",
+      "previews": [
+        {
+          "word": "الدحيح",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/arab_youtubers/preview_1.jpg"
+        },
+        {
+          "word": "أبو فلة",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/arab_youtubers/preview_2.jpg"
+        },
+        {
+          "word": "جو حطاب",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/arab_youtubers/preview_3.jpg"
+        }
+      ]
     }
   ]
 }
