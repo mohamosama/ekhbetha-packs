@@ -5,22 +5,24 @@
       "id": "animals",
       "title": "حيوانات",
       "author": "فريق اخبطها",
-      "version": 1,
-      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/animal.zip",
-      "imageCount": 54,
-      "size_mb": 13.13,
+      "version": 2,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/animals_v2.zip",
+      "imageCount": 70,
+      "size_mb": 3.51,
+      "icon": "🌟",
+      "color": "#2563eb",
       "cover_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/animals/preview_1.jpg",
       "previews": [
         {
-          "word": "Rabbit",
+          "word": "أسد",
           "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/animals/preview_1.jpg"
         },
         {
-          "word": "Rooster",
+          "word": "فيل",
           "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/animals/preview_2.jpg"
         },
         {
-          "word": "Seahorse",
+          "word": "زرافة",
           "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/animals/preview_3.jpg"
         }
       ]
