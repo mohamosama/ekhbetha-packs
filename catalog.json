@@ -58,19 +58,6 @@
       "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/actors.zip"
     },
     {
-      "id": "national_players",
-      "title": "لاعيبة محلية (جديد)",
-      "author": "فريق اخبطها",
-      "version": 2,
-      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/national_players_v2.zip",
-      "imageCount": 69,
-      "size_mb": 3.01,
-      "description": "[جديد] أشهر النجوم  في الدوري المصري",
-      "icon": "⚽",
-      "color": "#10b981",
-      "badge": "جديد"
-    },
-    {
       "id": "world_players",
       "title": "لاعيبة عالمية",
       "author": "فريق اخبطها",
