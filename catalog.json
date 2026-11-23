@@ -192,6 +192,34 @@
           "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/actors/preview_3.jpg"
         }
       ]
+    },
+    {
+      "id": "aflam_aalmya",
+      "title": "أفلام عالمية",
+      "author": "فريق اخبطها",
+      "version": 1,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/aflam_aalmya.zip",
+      "imageCount": 77,
+      "size_mb": 5.22,
+      "description": "[جديد] اشهر الافلام العالمية",
+      "icon": "🎬",
+      "color": "#2563eb",
+      "badge": "جديد",
+      "cover_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/aflam_aalmya/preview_1.jpg",
+      "previews": [
+        {
+          "word": "Titanic",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/aflam_aalmya/preview_1.jpg"
+        },
+        {
+          "word": "Inception",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/aflam_aalmya/preview_2.jpg"
+        },
+        {
+          "word": "Interstellar",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/aflam_aalmya/preview_3.jpg"
+        }
+      ]
     }
   ]
 }
