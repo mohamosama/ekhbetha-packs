@@ -220,6 +220,34 @@
           "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/aflam_aalmya/preview_3.jpg"
         }
       ]
+    },
+    {
+      "id": "world_series",
+      "title": "مسلسلات عالمية",
+      "author": "فريق اخبطها",
+      "version": 1,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/world_series.zip",
+      "imageCount": 73,
+      "size_mb": 4.65,
+      "description": "[جديد] اشهر المسلسلات العالمية",
+      "icon": "📺",
+      "color": "#ff5e62",
+      "badge": "جديد",
+      "cover_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/world_series/preview_1.jpg",
+      "previews": [
+        {
+          "word": "Breaking Bad",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/world_series/preview_1.jpg"
+        },
+        {
+          "word": "Game of Thrones",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/world_series/preview_2.jpg"
+        },
+        {
+          "word": "Stranger Things",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/world_series/preview_3.jpg"
+        }
+      ]
     }
   ]
 }
