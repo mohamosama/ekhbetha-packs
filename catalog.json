@@ -248,6 +248,32 @@
           "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/world_series/preview_3.jpg"
         }
       ]
+    },
+    {
+      "id": "anime",
+      "title": "انمي",
+      "author": "فريق اخبطها",
+      "version": 1,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/anime.zip",
+      "imageCount": 42,
+      "size_mb": 3.12,
+      "icon": "🎬",
+      "color": "#2563eb",
+      "cover_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/anime/preview_1.jpg",
+      "previews": [
+        {
+          "word": "Attack on Titan",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/anime/preview_1.jpg"
+        },
+        {
+          "word": "Naruto",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/anime/preview_2.jpg"
+        },
+        {
+          "word": "One Piece",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/anime/preview_3.jpg"
+        }
+      ]
     }
   ]
 }
