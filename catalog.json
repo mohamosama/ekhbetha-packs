@@ -274,6 +274,32 @@
           "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/anime/preview_3.jpg"
         }
       ]
+    },
+    {
+      "id": "world_landmarks",
+      "title": "معالم وأماكن مشهورة",
+      "author": "فريق اخبطها",
+      "version": 1,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/world_landmarks.zip",
+      "imageCount": 50,
+      "size_mb": 3.49,
+      "icon": "🌍",
+      "color": "#2563eb",
+      "cover_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/world_landmarks/preview_1.jpg",
+      "previews": [
+        {
+          "word": "أهرامات الجيزة",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/world_landmarks/preview_1.jpg"
+        },
+        {
+          "word": "برج إيفل",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/world_landmarks/preview_2.jpg"
+        },
+        {
+          "word": "تاج محل",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/world_landmarks/preview_3.jpg"
+        }
+      ]
     }
   ]
 }
