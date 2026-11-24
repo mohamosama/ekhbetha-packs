@@ -308,6 +308,32 @@
           "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/arab_youtubers/preview_3.jpg"
         }
       ]
+    },
+    {
+      "id": "flags",
+      "title": "اعلام",
+      "author": "فريق اخبطها",
+      "version": 1,
+      "url": "https://github.com/mohamosama/ekhbetha-packs/releases/download/Packs_v1/flags.zip",
+      "imageCount": 150,
+      "size_mb": 3.11,
+      "icon": "🎴",
+      "color": "#2563eb",
+      "cover_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/flags/preview_1.jpg",
+      "previews": [
+        {
+          "word": "مصر",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/flags/preview_1.jpg"
+        },
+        {
+          "word": "فلسطين",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/flags/preview_2.jpg"
+        },
+        {
+          "word": "السعودية",
+          "image_url": "https://raw.githubusercontent.com/mohamosama/ekhbetha-packs/main/previews/flags/preview_3.jpg"
+        }
+      ]
     }
   ]
 }
